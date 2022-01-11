@@ -1,2 +1,2 @@
-# Portugol---alguns---pseudoc-digos---
-Alguns pseudocódigos criados em Portugol, para praticar.
+# Portugol---alguns---pseudocódigos
+Alguns pseudocódigos criados em Portugol, para praticar, focado na lógica.
