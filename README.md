@@ -1,4 +1,4 @@
-alguns---pseudocódigos
+
 Alguns pseudocódigos criados em  VIsuaAlg e Portugol, para praticar, focado na lógica:
 
 
