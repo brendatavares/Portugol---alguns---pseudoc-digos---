@@ -44,7 +44,33 @@ Inicio
       leia(salario)
       escreva("O funcionario" , funcionario , "tem um salario de ", salario , "em junho.")
 FimAlgoritmo      
-     
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 5. FAÇA UM PROGRAMA QUE LEIA AS DUAS NOTAS DE UM ALUNO EM UMA MATÉRIA E MOSTRE NA TELA A SUA MÉDIA NA DISCIPLINA:
+ 
+ var
+      nota1, nota2, media:real
+ Inicio
+      escreva("Digite o nome do valor da primeira nota: ")
+      leia(nota1)
+      escreva("Digite o valor da segunda nota: ")
+      leia(nota2)
+      
+      media <- (nota1 + nota2)/2
+      escreva("Sua média é: " ,  media)
+ FimAlgoritmo
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+ 6.FAÇA UM CONVERSOR DE MOEDA:
+ var
+      reais, dolares: real
+ inicio
+      escreva("Quantos reais eu tenho? R$ ")
+      leia(reais)
+      dolares <- reais/5.33
+      escreva("Eu posso ter u$", dolares)
+ fimAlgoritmo
+ 
+ ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
     
       
 
